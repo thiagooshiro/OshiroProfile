@@ -4,7 +4,7 @@ Meu nome é Thiago Oshiro, sou uma pessoa desenvolvedora de software full-stack;
 
 Sou um curioso nato, gosto de compreender como as coisas funcionam, se transformam e se afetam;
 
-Atualmente concluindo o curso de desenvolvimento web da @Trybe;
+Concluí recentemente o curso de desenvolvimento web da Trybe;
 
 Formado em História pela Universidade Federal de Ouro Preto;
 
@@ -24,6 +24,8 @@ Instrutor de Kung Fu;
 <img align="center" alt="Veve-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
 <img align="center" alt="Veve-NODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
 <img align="center" alt="Veve-REDUX" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />               
 </div>
 
 ## Stats:
