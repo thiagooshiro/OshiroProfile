@@ -1,18 +1,13 @@
-# Bem vindos!
+# Welcome!
 
-Meu nome é Thiago Oshiro, sou uma pessoa desenvolvedora de software full-stack;
+My name is Thiago Oshiro, I'm a junior software enginner
 
-Sou um curioso nato, gosto de compreender como as coisas funcionam, se transformam e se afetam;
+Learning and teaching is what I do best.
 
-Concluí recentemente o curso de desenvolvimento web da Trybe;
-
-Formado em História pela Universidade Federal de Ouro Preto;
-
-Instrutor de Kung Fu;
+I'm also a historian and Kung Fu teacher.
 
 
-
-## Principais Stacks:
+## Main Stacks:
 <div>
 <img align="center" alt="Veve-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 <img align="center" alt="Veve-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
