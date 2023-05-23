@@ -1,6 +1,6 @@
 # Welcome!
 
-My name is Thiago Oshiro, I'm a junior software enginner
+My name is Thiago Oshiro, I'm a junior software developer
 
 Learning and teaching is what I do best.
 
